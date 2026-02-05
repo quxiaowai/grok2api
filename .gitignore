@@ -48,7 +48,9 @@ logs/
 data/*.json
 data/token.json
 data/tmp/
+data/temp/
 data/.locks/
+data/*.toml
 
 # Testing
 .pytest_cache/
